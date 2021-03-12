@@ -1,2 +1,2 @@
 # coursera-test
-Coursera test repository
+Test de Coursera enfocado netamente al aprendizaje de git!
